@@ -1,6 +1,4 @@
 <template>
-<!-- eslint-disable -->
-
   <v-layout column>
     <v-flex xs6 offset-xs3>
       <div class="white elevation-2">
